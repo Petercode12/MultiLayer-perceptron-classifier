@@ -1,4 +1,6 @@
 # Spark MLlib (MultiLayer perceptron classifier)
+Multilayer perceptron classifier (MLPC) is a classifier based on the feedforward artificial neural network.
+
 ### Description
 This project demonstrates the usage of a MultiLayer perceptron classifier on a sample dataset. The project goes through the following steps:
 1. Reading input data
